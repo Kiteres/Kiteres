@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kiteres</h1>
-<h3 align="center">Love Bash scripting, love code and learn new languages</h3>
+<h3 align="center">Love Bash scripting, oil painting and retro games</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
