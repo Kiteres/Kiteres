@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jkiteres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkiteres" height="30" width="40" /></a>
+<a href="https://twitter.com/jkiteres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkiteres" height="15" width="20" /></a>
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/xT0xeMIcsHFxsN5M8E/giphy.gif?cid=ecf05e47paxaezg0nxfs5creo8wh0givetkir148129q0an5&rid=giphy.gif&ct=g">
